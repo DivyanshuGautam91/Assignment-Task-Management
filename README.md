@@ -69,7 +69,7 @@ NODE_ENV=development
 - `GET /api/v1/tasks/:id` - Get single task
 - `POST /api/v1/tasks` - Create a task
 - `PUT /api/v1/tasks/:id` - Update a task
-- `DELETE /api/v1/tasks/:id` - Delete a task
+- `DELETE /api/v1/tasks/:id` - Delete a task.
 
 ## Folder Structure
 
